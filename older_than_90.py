@@ -8,7 +8,7 @@ import pytz
 from pytz import timezone
 
 # Connect to our Dropbox account
-dbx = dropbox.Dropbox('jcvA9vUEXbAAAAAAAAAApyEOfWiaiHkMzNW1SsMJ3QKa0JKy2A9_-unHobvetySZ')
+dbx = dropbox.Dropbox('Your Secret Access Token')
 
 # Create an empty list to store our file names
 files_folders = []
